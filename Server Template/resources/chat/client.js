@@ -7,7 +7,7 @@ let loaded = false;
 let opened = false;
 let hidden = false;
 
-let view = new alt.WebView("http://resources/chat/html/index.html");
+let view = new alt.WebView("http://resource/html/index.html");
 
 function addMessage(name, text) {
   if (name) {
@@ -26,7 +26,7 @@ view.on('chatloaded', () => {
 })
 
 view.on('chatmessage', (text) => {
-  alt.emitServer('chatmessage', text);
+  alt.emitServer('chat:message', text);
 
   opened = false;
   alt.toggleGameControls(true);
@@ -44,7 +44,7 @@ export function pushLine(text) {
   pushMessage(null, text);
 }
 
-alt.onServer('chatmessage', pushMessage);
+alt.onServer('chat:message', pushMessage);
 
 alt.on('keyup', (key) => {
   if (!loaded)

@@ -1,19 +1,18 @@
-[22:48:46] alt:V Server 3.0-rc2 (rc)
-[22:48:46] Starting alt:V Server on 0.0.0.0:7788
-[22:48:46] coreclr-module: version found: 5.0.2
-[22:48:46] coreclr-module: greatest version: 5.0.2
-[22:48:46] Loading resource chat
-[22:48:47] Loaded resource chat
-[22:48:47] Loading resource roleplay
-[22:48:47] ----> Server wird gestartet! <----
-[22:48:47] Loaded resource roleplay
-[22:48:47] Required server permissions:
-[22:48:47] Optional server permissions:
-[22:48:47] Starting HTTP server on 0.0.0.0:7788
-[22:48:47] Main thread started (ThreadId: 25012)
-[22:48:47] Colshape thread started (ThreadId: 9692)
-[22:48:47] EntityStreamer thread started (ThreadId: 24828)
-[22:48:47] Network thread started (ThreadId: 23116)
-[22:48:47] Console thread started (ThreadId: 18600)
-[22:48:47] Server started
-[22:52:24] [chat:cmd] Player: /Test
+[00:04:56] alt:V Server 3.0-rc2 (rc)
+[00:04:56] Starting alt:V Server on 0.0.0.0:7788
+[00:04:56] coreclr-module: version found: 5.0.2
+[00:04:56] coreclr-module: greatest version: 5.0.2
+[00:04:56] Loading resource chat
+[00:04:56] Loaded resource chat
+[00:04:56] Loading resource roleplay
+[00:04:56] ----> Server wird gestartet! <----
+[00:04:56] Loaded resource roleplay
+[00:04:56] Required server permissions:
+[00:04:56] Optional server permissions:
+[00:04:56] Starting HTTP server on 0.0.0.0:7788
+[00:04:56] Main thread started (ThreadId: 22152)
+[00:04:56] Colshape thread started (ThreadId: 24644)
+[00:04:56] EntityStreamer thread started (ThreadId: 1056)
+[00:04:56] Network thread started (ThreadId: 9936)
+[00:04:56] Console thread started (ThreadId: 21240)
+[00:04:56] Server started
