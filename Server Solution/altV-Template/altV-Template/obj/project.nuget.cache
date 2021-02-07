@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTYX5P3AbrYQ8H0PeHzPPSaPFvBWzYUihrDUaDaomK3ngt3R0zovr0Jcx1rRO8HcAu+XXnJjZw1nvXrss8eT/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxnight\\Desktop\\Server Template\\Server Solution\\altV-Template\\altV-Template\\altV-Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxnight\\.nuget\\packages\\altv.net\\1.48.3\\altv.net.1.48.3.nupkg.sha512",
+    "C:\\Users\\Maxnight\\.nuget\\packages\\altv.net.resources.chat.api\\1.48.0\\altv.net.resources.chat.api.1.48.0.nupkg.sha512"
+  ],
+  "logs": []
+}

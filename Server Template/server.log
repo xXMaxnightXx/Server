@@ -1,0 +1,19 @@
+[22:48:46] alt:V Server 3.0-rc2 (rc)
+[22:48:46] Starting alt:V Server on 0.0.0.0:7788
+[22:48:46] coreclr-module: version found: 5.0.2
+[22:48:46] coreclr-module: greatest version: 5.0.2
+[22:48:46] Loading resource chat
+[22:48:47] Loaded resource chat
+[22:48:47] Loading resource roleplay
+[22:48:47] ----> Server wird gestartet! <----
+[22:48:47] Loaded resource roleplay
+[22:48:47] Required server permissions:
+[22:48:47] Optional server permissions:
+[22:48:47] Starting HTTP server on 0.0.0.0:7788
+[22:48:47] Main thread started (ThreadId: 25012)
+[22:48:47] Colshape thread started (ThreadId: 9692)
+[22:48:47] EntityStreamer thread started (ThreadId: 24828)
+[22:48:47] Network thread started (ThreadId: 23116)
+[22:48:47] Console thread started (ThreadId: 18600)
+[22:48:47] Server started
+[22:52:24] [chat:cmd] Player: /Test

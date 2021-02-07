@@ -1,0 +1,10 @@
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.AssemblyInfoInputs.cache
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.AssemblyInfo.cs
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.csproj.CoreCompileInputs.cache
+C:\Users\Maxnight\Desktop\Server Template\Server Template\resources\roleplay\altV-Template.deps.json
+C:\Users\Maxnight\Desktop\Server Template\Server Template\resources\roleplay\altV-Template.dll
+C:\Users\Maxnight\Desktop\Server Template\Server Template\resources\roleplay\altV-Template.pdb
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.csproj.CopyComplete
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.dll
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.pdb
+C:\Users\Maxnight\Desktop\Server Template\Server Solution\altV-Template\altV-Template\obj\Debug\altV-Template.csprojAssemblyReference.cache

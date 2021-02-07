@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "altV-Template": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Maxnight\\Desktop\\Server Template\\Server Template\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\Maxnight\\Desktop\\Server Template\\Server Template"
+    }
+  }
+}
